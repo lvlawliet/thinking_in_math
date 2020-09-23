@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Thinking In Math
 
-You can use the [editor on GitHub](https://github.com/lvlawliet/thinking_in_math/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 序言
+离职之后难得有大把时间可以干自己想干的事情，所以萌生了写这个Thinking In Math的念头，毕竟我从来都是把计算机学科归为数学的一个分支。但想了想也是工作了6年的人了，不能像大学那时候简单的罗列公式加以推到论证，毫无实践意义，工作中估计99%的程序员一辈子都不会用到线性偏微分方程，所以写这个主旨在于Math在CS领域的应用总结。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+虽然是具体应用总结，但99%国内程序员也用不到，算法可以不会，数据结构可以冗杂，只要肯加班，你就是好程序.....。而且就算工作6年了，在工作中用到巧妙算法的地方也是不多。
 
-### Markdown
+所以总结的具体应用都是来自一些编程题，鉴于大厂把LeetCode带起了一阵风尚，而LeetCode的题目质量实在一般，所以选用的是浙江大学的[ZOJ](https://zoj.pintia.cn/)。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lvlawliet/thinking_in_math/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+emmm...希望自己能写完第一版不会鸽掉。
